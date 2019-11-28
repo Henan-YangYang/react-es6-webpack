@@ -1,6 +1,6 @@
 # book_store_app
 # 学习react + webpack + es6 + jsx + react-redux
-# 为了更好的、更明了的理解项目的构建过程，这里没选择使用create-react-app脚手架来构建项目,所以不建议用来开发项目使用。
+# 为了更好的、更明了的理解项目的构建过程，这里没选择使用create-react-app脚手架来构建项目。
 
 搭建框架的步骤及部分详解
     1. npm init
